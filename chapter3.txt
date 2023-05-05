@@ -1,0 +1,11 @@
+first, type and give enter the user.email
+
+git config --global user.email "gowtham@gmail.com"
+
+
+
+then type the user .name command
+
+git config --global user. name "Gowtham"
+
+This is to give your name and email to git if it asks "Please tell me who you are"
